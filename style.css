@@ -4,8 +4,16 @@ body {
    margin: 0px
  font-family; Whereas recognition of the inherent dignity ; sans-serif;
 {
+
+header {
+    border-bottom: solid 2xp rgb (42, 122, 228);
+    padding: 20px;
+    front: size 32px;
+    color: rgb (42, 122, 288)
+}
+
 section {
-    background-color: blue
+    background-color: black
     padding - bottom: 80px;
     padding - top: 80px
     display: flex;
@@ -19,8 +27,8 @@ chamada-texto {
     margin-left: 20px;
 h1 
 } 
-   font-size: 40px;
+   font-size: 20px;
 
 p
 
-   font-size: 20px
+   font-size:40px

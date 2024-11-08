@@ -3,19 +3,57 @@
       color: black;
       margin: 0px;
     font-family: "poppins", sans-serif
-}
+ }
 
     header {
      border-bottom: solid 2px rgb(rgb(73, 33, 255), rgb(47, 141, 248), rgb(79, 29, 172));
     padding: 20px;
     font-size: 32px;
     color: rgb(73, 33, 255) 47, 141, 248), (79, 29, 172) ;
-}
+ }
 
 section {
-     background-color: rgb(rgb(187, 238, 5), rgb(98, 21, 241), rgba(209, 238, 83, 0.979));
-    padding: ;
+     background-color: rgb(rgb(73, 33, 255), rgb(47, 141, 248), rgb(79, 29, 83, 172));
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    
+ }
 
+chamada-texto {
+    margin-right: 20px;
+ }
 
+h1 {
+    font-size: 40px;
+ }
 
-}
+p {
+    font-size: 20px;
+  }
+
+categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+ }
+
+categoria {
+   padding-left: 20px;
+   padding-right: 20px;
+   margin-top: 50px;
+ }
+
+categoria-video img {
+   opacity: 0,5px;
+   height: 200px;
+    }
+
+    categoria-videos img: :hover{
+    opacity: 1,0;
+    border: 5px solid green;
+ }
+    
+ categoria h2 {
+   color: rgb(red, green, blue);
+ }
